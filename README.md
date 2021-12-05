@@ -21,4 +21,4 @@
 </div>
 
 
- ![Snake animation](https://github.com/jumbeba/jumbeba/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Jumbeba/Jumbeba/blob/output/github-contribution-grid-snake.svg)
