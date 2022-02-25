@@ -1,6 +1,6 @@
 ### Seja bem vindo(a)!
 ### Eu sou o Rafael! 👋
- Estudante de programação
+ Estudante de análise e desenvolvimento de sistemas
 
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" />
 
