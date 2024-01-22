@@ -2,6 +2,7 @@
 ### Eu sou o Rafael! 👋
 
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" />
+
 ### Contatos:
 <div>
 <a href = "mailto:contato.rafaelvinicius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
