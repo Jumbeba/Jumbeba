@@ -1,9 +1,21 @@
 ### Seja bem vindo(a)!
 ### Eu sou o Rafael! 👋
 
-Entre em contato comigo através do contato.rafaelvinicius@gmail.com
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" />
+### Contatos:
+<div>
+<a href = "mailto:contato.rafaelvinicius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/orafaelvinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://instagram.com/jumbeba" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
+<div>
+<a href="https://github.com/orafaelvinicius">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafaelvinicius&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=orafaelvinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+  
 ### Ferramentas e Tecnologias
 #### Linguagens
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,17 +53,6 @@ Entre em contato comigo através do contato.rafaelvinicius@gmail.com
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Contatos:
-<div>
-<a href = "mailto:contato.rafaelvinicius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/orafaelvinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://instagram.com/jumbeba" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
 
-<div>
-<a href="https://github.com/orafaelvinicius">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafaelvinicius&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=orafaelvinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 
