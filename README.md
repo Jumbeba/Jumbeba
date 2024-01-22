@@ -1,6 +1,7 @@
 ### Seja bem vindo(a)!
 ### Eu sou o Rafael! 👋
 
+Entre em contato comigo através do contato.rafaelvinicius@gmail.com
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" />
 
 ### Ferramentas e Tecnologias
